@@ -5,3 +5,12 @@ This is the source of the progress log of my #100DaysOfCode challenge, the proje
 Follow this blog at [eduronqui.github.io/one-hundred-days-of-code](https://eduronqui.github.io/one-hundred-days-of-code/) or my Twitter for more updates [@eduronqui](https://twitter.com/eduronqui)
 
 This blog is built on [Jekyll](https://jekyllrb.com) and [GitHub pages](https://pages.github.com).
+
+## Share your progress
+
+Don't forget to tweet your progress:
+
+```text
+#DayX I did... https://bit.ly/35TtiMg
+#100DaysOfCode
+```
